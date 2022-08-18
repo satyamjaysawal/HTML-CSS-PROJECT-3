@@ -64,7 +64,7 @@ Source code is available on my Git hub link
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ...
+If you have any feedback, please reach out to us at ....
 
 
 [![image](https://user-images.githubusercontent.com/108862706/184496334-c8721697-0e31-437d-892e-088746ef47fe.png)](https://twitter.com/s_jaysawal?t=zbTR9vw_U8lRNNDXL1rW4A&s=08)  
